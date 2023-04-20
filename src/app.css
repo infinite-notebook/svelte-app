@@ -24,6 +24,8 @@ a:hover {
 }
 
 body {
+  position: static;
+  touch-action: none;
   margin: 0;
   min-width: 320px;
   width: 100vw;

@@ -6,7 +6,7 @@
   import { titleSchema, schema } from './schema'
 
 
-  import * as Y from 'yjs'
+  import type * as Y from 'yjs'
   import {
     ySyncPlugin,
     yCursorPlugin,
